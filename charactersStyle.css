@@ -1,0 +1,170 @@
+body {
+background-color: rgb(0, 0, 0);
+font-family: monospace;
+}
+h1 {
+color: white;
+text-align: center;
+font-family: monospace;
+font-size: 50px;
+}
+.characters {
+background-color: grey;
+margin: 50px;
+}
+#MashitaInfo {
+
+color: black;
+position: absolute;
+left: 420px;
+top: 130px;
+z-index: 2;
+}
+#UchiyamaInfo {
+
+color: black;
+position: absolute;
+left: 420px;
+top: 970px;
+z-index: 2;
+}
+#MotoInfo {
+
+color: black;
+position: absolute;
+left: 420px;
+top: 1810px;
+z-index: 2;
+}
+#LyamInfo {
+color: black;
+position: absolute;
+left: 420px;
+top: 2655px;
+z-index: 2;
+}
+#AmamiyaInfo {
+color: black;
+position: absolute;
+left: 420px;
+top: 3505px;
+z-index: 2;
+}
+h2 {
+text-decoration: underline;
+font-size: 30px;
+margin-bottom: -10px;
+}
+.stats {
+font-size: 20px;
+margin-bottom: -10px;
+}
+#mashitaQuirk {
+position: absolute;
+left: 730px;
+top: 170px;
+width: 300px;
+font-size: 11px;
+}
+.quirkName {
+font-size: 20px;
+margin-bottom: -10px;
+}
+#uchiyamaQuirk {
+position: absolute;
+left: 730px;
+top: 1010px;
+width: 300px;
+font-size: 11px;
+}
+#motoQuirk {
+position: absolute;
+left: 730px;
+top: 1840px;
+width: 300px;
+font-size: 11px;
+}
+#lyamQuirk {
+position: absolute;
+left: 730px;
+top: 2705px;
+width: 300px;
+font-size: 11px;
+}
+#amamiyaQuirk {
+position: absolute;
+left: 730px;
+top: 3555px;
+width: 300px;
+font-size: 11px;
+}
+#uaLogo1 {
+position: absolute;
+top: 10px;
+left: 100px;
+}
+#mashitaRel {
+position: absolute;
+left: 70px;
+top: 530px;
+font-size: 15;
+}
+#uchiyamaRel {
+position: absolute;
+left: 70px;
+top: 1380px;
+}
+#motoRel {
+position: absolute;
+left: 70px;
+top: 2220px;
+}
+#onoRel {
+position: absolute;
+left: 70px;
+top: 3060px;
+}
+#amamiyaRel {
+position: absolute;
+left: 70px;
+top: 3910px;
+}
+#uaLogo2 {
+position: absolute;
+top: 10px;
+right: 100px;
+
+}
+.Rel {
+background-color: grey;
+margin: 50px;
+}
+#mashitacanvas {
+position: relative;
+bottom: 20px;
+right: 20px;
+}
+#uchiyamacanvas {
+position: relative;
+bottom: 20px;
+right: 20px;
+}
+#motocanvas {
+position: relative;
+bottom: 20px;
+right: 20px;
+}
+#onocanvas {
+position: relative;
+bottom: 20px;
+right: 20px;
+}
+#amamiyacanvas {
+position: relative;
+bottom: 20px;
+right: 20px;
+}
+h3 {
+font-size: 25px;
+}
+
